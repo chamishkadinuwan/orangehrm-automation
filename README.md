@@ -1,2 +1,5 @@
-# orangehrm-automation
-Selenium automation assignment for OrangeHRM
+# OrangeHRM Automation
+
+Automates login, leave, and logout features using Selenium and Python.
+
+## To run tests:
